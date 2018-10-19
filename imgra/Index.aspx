@@ -95,8 +95,9 @@
             <div class="request-content">
                 <div class="row d-flex align-items-center">
                     <div class="col-xl-9 col-md-8 col-sm-7">
-                        <h4>Get a free consultation</h4>
-                        <p>Have an idea or a project, lets ectetur adipisicing elit, sed do eiusmod tempor.</p>
+                       <h4> Welcome to Language Coaching Center</h4>
+                       <%-- <h4>Get a free consultation</h4>--%>
+                       <%-- <p>Have an idea or a project, lets ectetur adipisicing elit, sed do eiusmod tempor.</p>--%>
                     </div>
                     <div class="col-xl-3 col-md-4 col-sm-5 text-center text-sm-right">
                         <a href="Contact.aspx" class="btn-1">Submit Request</a>
@@ -121,56 +122,152 @@
                 <!-- Single Practice -->
                 <div class="col-sm-6 col-lg-4">
                     <div class="practise-item">
-                        <div class="icon-box"><i class="flaticon-student"></i></div>
-                        <h2><a href="#">Student Consultancy</a></h2>
-                        <p>Lorem Ipsum is simply dummy text the printing and typesetting industry. Lorem Ipsum has been the industry</p>
+                        <img src="images/Country/p1.jpg" />
+                  
+                        <h2><a href="#">Study in Australia</a></h2>
+                        <p>Australia is a country for global education & long-term opportunities. This is why studying in Australia has become popular. Moreover, the Australian government has been heavily involved in building a ‘truly international education system.</p>
+                    </div>
+                </div>
+                <!-- Single Practice -->
+                <div class="col-sm-6 col-lg-4">
+                        <div class="practise-item">
+                      <img src="images/Country/p3.jpg" />
+                        <h2><a href="#">Study in Canada</a></h2>
+                        <p>When you come to Canada it is having 10 provinces and 3 territories. It is a second largest country after Russia in the world and having the population is around 35 million. 
+                            </p>
                     </div>
                 </div>
                 <!-- Single Practice -->
                 <div class="col-sm-6 col-lg-4">
                     <div class="practise-item">
-                        <div class="icon-box"><i class="flaticon-parents"></i></div>
-                        <h2><a href="#">Spouse Consultancy</a></h2>
-                        <p>Lorem Ipsum is simply dummy text the printing and typesetting industry. Lorem Ipsum has been the industry</p>
+                        <img src="images/Country/usa-front-pic.jpg" />
+                        <h2><a href="#">Study in USA</a></h2>
+                        <p>USA, the country which has experimented with democracy for more than 200 years is strong economically as well as culturally today with the base being the immigrants. The US has more than 4000 colleges and university institutions where nearly 6 million International students study in different courses for various programs. </p>
                     </div>
                 </div>
                 <!-- Single Practice -->
                 <div class="col-sm-6 col-lg-4">
                     <div class="practise-item">
-                        <div class="icon-box"><i class="flaticon-consultant"></i></div>
-                        <h2><a href="#">Business Consultancy</a></h2>
-                        <p>Lorem Ipsum is simply dummy text the printing and typesetting industry. Lorem Ipsum has been the industry</p>
+                         <img src="images/Country/germany.jpg" />
+                        <h2><a href="#">Study in Germany</a></h2>
+                        <p>We prepare students for international careers in business and management at our campus locations in Bad Honnef, Berlin, and Killarney. With a key focus on internationality</p>
                     </div>
                 </div>
                 <!-- Single Practice -->
                 <div class="col-sm-6 col-lg-4">
                     <div class="practise-item">
-                        <div class="icon-box"><i class="flaticon-passport"></i></div>
-                        <h2><a href="#">Immigration Consultancy</a></h2>
-                        <p>Lorem Ipsum is simply dummy text the printing and typesetting industry. Lorem Ipsum has been the industry</p>
+                  <img src="images/Country/spain.jpg" />
+                        <h2><a href="#">Study in Spain</a></h2>
+                        <p>In Spain, the education regulating body is “Ministry of Education”. In Spain it is  the “Law Of Education” that makes the regulations. According to this law, education in Spain is compulsory and should be free from “six years to sixteen years of age”. This is supported by the government of the Spain. From 6 to 16, the school attendance is compulsory for every child.</p>
                     </div>
                 </div>
                 <!-- Single Practice -->
                 <div class="col-sm-6 col-lg-4">
                     <div class="practise-item">
-                        <div class="icon-box"><i class="flaticon-loan-1"></i></div>
-                        <h2><a href="#">Student Consultancy</a></h2>
-                        <p>Lorem Ipsum is simply dummy text the printing and typesetting industry. Lorem Ipsum has been the industry</p>
-                    </div>
-                </div>
-                <!-- Single Practice -->
-                <div class="col-sm-6 col-lg-4">
-                    <div class="practise-item">
-                        <div class="icon-box"><i class="flaticon-monitor"></i></div>
-                        <h2><a href="#">Online Consultancy</a></h2>
-                        <p>Lorem Ipsum is simply dummy text the printing and typesetting industry. Lorem Ipsum has been the industry</p>
+                  <img src="images/Country/Franch.jpg" />
+                        <h2><a href="#">Study in Franch</a></h2>
+                        <p>You can come to France and study for up to three months on this visa, without the need for a separate residence visa. This is suitable for those enrolling on a language course or short-term programs.</p>
                     </div>
                 </div>
 
             </div>
+
+            <div class="row">
+                    <!-- Single team -->
+                    <div class="col-sm-6 col-lg-6">
+                        <div class="sin-practice-4">
+                         <%--   <img src="images\practice\pracd1.jpeg" alt="">--%>
+                            <span>A1</span>
+                            <div class="pra-four-inner">
+                             <h5><a href="#">Level </a></h5>
+                             <p>Can understand and use familiar, everyday expressions and very simple sentences, which relate to the satisfying of concrete needs. Can introduce him/herself and others as well as ask others about themselves – e.g. where they live, who they know and what they own – and can respond to questions of this nature. Can communicate in a simple manner if the person they are speaking to speaks slowly and clearly and is willing to help.
+                                 <br />;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                             </p>
+                            
+
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single team -->
+                <div class="col-sm-6 col-lg-6">
+                    <div class="sin-practice-4">
+                    
+                        <span>A2</span>
+                        <div class="pra-four-inner">
+                         <h5><a href="#">Level </a></h5>
+                         <p>Can understand sentences and commonly used expressions associated with topics directly related to his/her direct circumstances (e.g. personal information or information about his/her family, shopping, work, immediate surroundings). Can make him/herself understood in simple, routine situations dealing with a simple and direct exchange of information on familiar and common topics. Can describe his/her background and education, immediate surroundings and other things associated with immediate needs in a simple way.</p>
+                       
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single team -->
+            <div class="col-sm-6 col-lg-6">
+                <div class="sin-practice-4">
+                  
+                    <span>B1</span>
+                    <div class="pra-four-inner">
+                     <h5><a href="#">Level </a></h5>
+                     <p>Can understand the main points when clear, standard language is used and the focus is on familiar topics associated with work, school, leisure time, etc. Can deal with most situations typically encountered when travelling in the language region. Can express him/herself simply and coherently regarding familiar topics and areas of personal interest. Can report on experiences and events, describe dreams, hopes and goals as well as make short statements to justify or explain his/her own views and plans.</p>
+               
+
+                </div>
+            </div>
+        </div>
+
+        <!-- Single team -->
+        <div class="col-sm-6 col-lg-6">
+            <div class="sin-practice-4">
+            
+                <span>B2</span>
+                <div class="pra-four-inner">
+                 <h5><a href="#">Level </a></h5>
+                 <p>Can understand the main contents of complex texts on concrete and abstract topics; also understands specialized discussions in his/her own primary area of specialization. Can communicate so spontaneously and fluently that a normal conversation with native speakers is easily possible without a great deal of effort on either side. Can express him/herself on a wide range of topics in a clear and detailed manner, explain his/her position on a current issue and indicate the benefits and drawbacks of various options.</p>
+           
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Single team -->
+    <div class="col-sm-6 col-lg-6">
+        <div class="sin-practice-4">
+     <%--       <img src="images\practice\pracd5.jpeg" alt="">--%>
+            <span>C1</span>
+            <div class="pra-four-inner">
+             <h5><a href="#">Level </a></h5>
+             <p>Can understand a wide range of challenging, longer texts and also grasp implicit meanings. Can express him/herself spontaneously and fluently without having to search for words frequently and noticeably. Can use the language effectively and flexibly in his/her social and professional life or in training and studies. Can make clear, structured and detailed statements on complex topics and apply various means of text association appropriately in the process.</p>
+        
+        </div>
+    </div>
+    </div>
+
+    <!-- Single team -->
+    <div class="col-sm-6 col-lg-6">
+        <div class="sin-practice-4">
+            <%--<img src="images\practice\pracd6.jpeg" alt="">--%>
+            <span>C2</span>
+            <div class="pra-four-inner">
+             <h5><a href="#">Level </a></h5>
+             <p>Can effortlessly understand practically everything which he/she reads or hears. Can summarize information from various written and spoken sources, logically recounting the reasons and explanations. Can express him/herself spontaneously with high fluency and precision and also make finer nuances of meaning clear in ;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;more complex topics. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+              
+       
+        </div>
+    </div>
+    </div>
+
+ 
+    </div>
+
         </div>
     </section>
     <!-- Practise Part End -->
+
+   
 
 
     <!-- About us  Part Start -->
@@ -179,7 +276,7 @@
             <div class="row">
                 <div class="col-xl-8">
                     <h2>Who We Are </h2>
-                    <h6>Nullam varius turpis et commodo pharetra est eros biben del luctus magna felis sollicitudin mauris nteger mauris. </h6>
+                    <%--<h6>Nullam varius turpis et commodo pharetra est eros biben del luctus magna felis sollicitudin mauris nteger mauris. </h6>--%>
                     <p>German is the native language of more than 100 million people in Europe. Learning German not only opens up access to culture and education, but also creates opportunities for business contacts and professional success. Whatever your reason for learning German is either for business, preparation for university studies in Germany or just personal interest the German Language Academy offers a broad range of German course.. </p>
                     <div class="progress_bar_wrap">
                      <div class=" progress_bar">
@@ -211,313 +308,6 @@
 <!-- About us  Part End -->
 
 
-<!-- Counter Part Start -->
-<%--<section class="counter-part section-p">
-    <div class="container">
-        <div class="counter-box">
-            <div class="row">
-                <!-- Single Counter -->
-                <div class="col-6 col-sm-6 col-lg-3 d-flex justify-content-center justify-content-lg-start">
-                    <div class="counter-item">
-                        <div class="count-des">
-                            <i class="flaticon-title"></i>
-                        </div>
-                        <div class="count-des">
-                            <h2 class="counter">2978</h2>
-                            <p>Quality Service</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- Single Counter -->
-                <div class="col-6 col-sm-6 col-lg-3 d-flex justify-content-center justify-content-lg-start mt-4 mt-sm-0">
-                    <div class="counter-item">
-                        <div class="count-des">
-                            <i class="flaticon-badge"></i>
-                        </div>
-                        <div class="count-des">
-                            <h2 class="counter">3972</h2>
-                            <p>Success Story</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- Single Counter -->
-                <div class="col-6 col-sm-6 col-lg-3 d-flex justify-content-center justify-content-lg-start mt-4 mt-lg-0">
-                    <div class="counter-item">
-                        <div class="count-des">
-                            <i class="flaticon-suit"></i>
-                        </div>
-                        <div class="count-des">
-                            <h2 class="counter">4578</h2>
-                            <p>Trusted Clients</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- Single Counter -->
-                <div class="col-6 col-sm-6 col-lg-3 d-flex justify-content-center justify-content-lg-start mt-4 mt-lg-0">
-                    <div class="counter-item">
-                        <div class="count-des">
-                            <i class="flaticon-key"></i>
-                        </div>
-                        <div class="count-des">
-                            <h2 class="counter">2978</h2>
-                            <p>Honors & Awards</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>--%>
-<!-- Counter Part End -->
-
-<!-- Testiminial Part Start -->
-<section class="testimonial-part section-p">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 col-xl-6 col-lg-6 mb-5 mb-lg-0">
-                <div class="testimonial-box">
-                    <div class="section-head-2">
-                        <h2>Our Testimonial <span>Pro</span></h2>
-                        <p>Dummy text of the printing and typesetting industry orhas been the industry's standard unknown printa galley.</p>
-                    </div>
-                    <div class="swiper-container testimonial-slider" data-swiper-config='{"loop": true, "effect": "slide", "speed": 800, "autoplay": 5000, "paginationClickable": true, "spaceBetween": 25 }'>
-                        <div class="swiper-wrapper">
-                            <!-- Single Testimonial -->
-                            <div class="swiper-slide testimonial-item">
-                                <div class="row">
-                                    <div class="col-8 offset-2 col-sm-5 col-xl-4 offset-sm-0 mb-3 mb-sm-0">
-                                        <div class="person-detail">
-                                            <div class="person-img">
-                                                <img src="images\testimonial-1.jpeg" alt="Image">
-                                            </div>
-                                            <h3>John doe</h3>
-                                            <p>UI Designer</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-12 col-sm-7 col-xl-8">
-                                        <div class="person-comment">
-                                            <h4>Dummy text of th printing and typeseg industry.</h4>
-                                            <ul class="flat-list star">
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star-half-o"></i></li>
-                                            </ul>
-                                            <div class="mains-comment">
-                                                <p><i class="fa fa-quote-left"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mveniam.<i class="fa fa-quote-right"></i> </p>
-                                            </div>
-                                            <img src="images\testmonial-signeture.png" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single Testimonial -->
-                            <div class="swiper-slide testimonial-item">
-                                <div class="row">
-                                    <div class="col-8 offset-2 col-sm-5 col-xl-4 offset-sm-0 mb-3 mb-sm-0">
-                                        <div class="person-detail">
-                                            <div class="person-img">
-                                                <img src="images\testimonial-1.jpeg" alt="Image">
-                                            </div>
-                                            <h3>John doe</h3>
-                                            <p>CEO</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-12 col-sm-7 col-xl-8">
-                                        <div class="person-comment">
-                                            <h4>Dummy text of th printing and typeseg industry.</h4>
-                                            <ul class="flat-list star">
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star-half-o"></i></li>
-                                            </ul>
-                                            <div class="mains-comment">
-                                                <p><i class="fa fa-quote-left"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mveniam.<i class="fa fa-quote-right"></i> </p>
-                                            </div>
-                                            <img src="images\testmonial-signeture.png" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single Testimonial -->
-                            <div class="swiper-slide testimonial-item">
-                                <div class="row">
-                                    <div class="col-8 offset-2 col-sm-5 col-xl-4 offset-sm-0 mb-3 mb-sm-0">
-                                        <div class="person-detail">
-                                            <div class="person-img">
-                                                <img src="images\testimonial-1.jpeg" alt="Image">
-                                            </div>
-                                            <h3>John doe</h3>
-                                            <p>Developer</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-12 col-sm-7 col-xl-8">
-                                        <div class="person-comment">
-                                            <h4>Dummy text of th printing and typeseg industry.</h4>
-                                            <ul class="flat-list star">
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star"></i></li>
-                                                <li><i class="fa fa-star-half-o"></i></li>
-                                            </ul>
-                                            <div class="mains-comment">
-                                                <p><i class="fa fa-quote-left"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mveniam.<i class="fa fa-quote-right"></i> </p>
-                                            </div>
-                                            <img src="images\testmonial-signeture.png" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-pagination"></div>
-                    </div>
-                </div>
-            </div>
-            <div class="  col-12 col-xl-5 col-lg-6 offset-xl-1">
-                <div class="section-head-2 mb-3">
-                    <h2>Our Success <span>Stories</span></h2>
-                    <p>Dummy text of the printing and typesetting industry orhas been the industry's standard unknown printa galley.</p>
-                </div>
-                <div class="story-box">
-                    <div class="row no-gutters justify-content-center">
-
-                        <!-- Single Success Story -->
-                        <div class="story-item d-sm-flex align-items-sm-center">
-                            <div class="year text-center text-sm-right">
-                                <div class="years year-left">2006 - 2010</div>
-                            </div>
-                            <div class="comment-box">
-                                <div class="story-comment story-comment-right text-left mt-0">
-                                    <p>Dummy text of the print and typesettg industry industry.</p>
-                                    <img src="images\testimonial-story-1.jpeg" alt="">
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Single Success Story -->
-                        <div class="story-item d-sm-flex align-items-sm-center">
-                            <div class="year text-center text-sm-right">
-                                <div class="years year-left">2006 - 2010</div>
-                            </div>
-                            <div class="comment-box">
-                                <div class="story-comment story-comment-right text-left mt-0">
-                                    <p>Dummy text of the print and typesettg industry industry.</p>
-                                    <img src="images\testimonial-story-1.jpeg" alt="">
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Single Success Story -->
-                        <div class="story-item d-sm-flex align-items-sm-center">
-                            <div class="year text-center text-sm-right">
-                                <div class="years year-left">2006 - 2010</div>
-                            </div>
-                            <div class="comment-box">
-                                <div class="story-comment story-comment-right text-left mt-0">
-                                    <p>Dummy text of the print and typesettg industry industry.</p>
-                                    <img src="images\testimonial-story-1.jpeg" alt="">
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-<!-- Testiminial Part End -->
-<!-- Skill Part Start -->
-<section class="skill-part section-p">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 ">
-                <div class="skill-contact-form">
-                    <div class="section-head-2">
-                        <h2>Experience <span>In Consultancy</span></h2>
-                        <p>Dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard unknown printa galley.</p>
-                    </div>
-                    <form class="contact-form">
-                        <div class="row">
-                            <div class="col-12">
-                                <label>Free Consultation</label>
-                            </div>
-                            <div class="col-12 col-lg-12">
-                                <input class="form-control" type="text" placeholder="Name*" required="">
-                            </div>
-                            <div class="col-12 col-lg-12">
-                                <input class="form-control" type="email" placeholder="Email*" required="">
-                            </div>
-                            <div class="col-12">
-                                <textarea class="form-control" placeholder="Message"></textarea>
-                            </div>
-                            <div class="col-12">
-                                <button class="btn-1">SEND US</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-5 offset-xl-1">
-                <div class="skill-box">
-                    <div class="section-head-2">
-                        <h2>Skills of <span>Consultancy</span></h2>
-                        <p>Dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard unknown printa galley.</p>
-                    </div>
-                    <div class="progressbar-box">
-                        <!-- Single Skill -->
-                        <div class="progressbar-wrapper">
-                            <div class="progress vertical bottom">
-                                <div class="progress-bar six-sec-ease-in-out" data-bg-image="images/progress-1.jpg" role="progressbar" data-transitiongoal="95"></div>
-                            </div>
-                            <h5 class="font-size-16">Student Consultency</h5>
-                            <span>95%</span>
-                        </div>
-                        <!-- Single Skill -->
-                        <div class="progressbar-wrapper">
-                            <div class="progress vertical bottom">
-                                <div class="progress-bar six-sec-ease-in-out" data-bg-image="images/progress-2.jpg" role="progressbar" data-transitiongoal="85"> </div>
-                            </div>
-                            <h5 class="font-size-16">Immigration Consultency</h5>
-                            <span>85%</span>
-                        </div>
-                        <!-- Single Skill -->
-                        <div class="progressbar-wrapper">
-                            <div class="progress vertical bottom">
-                                <div class="progress-bar six-sec-ease-in-out" data-bg-image="images/progress-3.jpg" role="progressbar" data-transitiongoal="75"> </div>
-                            </div>
-                            <h5 class="font-size-16">Business Consultency</h5>
-                            <span>75%</span>
-                        </div>
-                        <!-- Single Skill -->
-                        <div class="progressbar-wrapper">
-                            <div class="progress vertical bottom">
-                                <div class="progress-bar six-sec-ease-in-out" data-bg-image="images/progress-4.jpg" role="progressbar" data-transitiongoal="65"> </div>
-                            </div>
-                            <h5 class="font-size-16">Spouse Consultency</h5>
-                            <span>65%</span>
-                        </div>
-                        <!-- Single Skill -->
-                        <div class="progressbar-wrapper">
-                            <div class="progress vertical bottom">
-                                <div class="progress-bar six-sec-ease-in-out" data-bg-image="images/progress-5.jpg" role="progressbar" data-transitiongoal="55"> </div>
-                            </div>
-                            <h5 class="font-size-16">Student Loan</h5>
-                            <span>55%</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-<!-- Skill Part End -->
 
 <!-- Team Part Start -->
 <section class="team-part section-p">
@@ -526,7 +316,7 @@
             <div class="col-12 text-center">
                 <div class="section-head">
                     <h2>Our Consultant</h2>
-                    <p>Dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard unknown printer took a quis nostrud exercitatliquip.</p>
+                    <p>Our consultants collaborate across industries, functions and geographies to help you find and develop outstanding leaders, improve the performance of teams and align organizational culture with strategy.</p>
                 </div>
             </div>
         </div>
@@ -728,7 +518,7 @@
 
 
 <!-- Twiter Feed  Part Start -->
-<section class="twitter-feed-part">
+<%--<section class="twitter-feed-part">
     <div class="container">
         <div class="row">
             <div class="twitter-feed-box">
@@ -772,7 +562,7 @@
             </div>
         </div>
     </div>
-</section>
+</section>--%>
 <!-- Twiter Feed  Part End -->
 
 </asp:Content>
