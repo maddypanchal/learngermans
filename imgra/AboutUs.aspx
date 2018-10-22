@@ -30,17 +30,19 @@
                 <div class="col-12 text-center">
                     <div class="section-head">
                         <h2>Wellcome to About Us</h2>
-                        <p>Dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard unknown printer took a quis nostrud exercitatliquip.</p>
+                        <p>
+Language Coaching Center is India’s most experienced specialist service provider of comprehensive and unbiased overseas education counselling.
+                           </p>
+<%--<p>
+                           </p>--%>
                     </div>
                 </div>
-
                 <div class="col-md-8 col-xl-6">
                     <div class="about-4-img">
                         <img src="images\about-4.png" alt="">
                     </div>
                 </div>
-               
-                <div class="col-md-8 col-xl-6">
+               <div class="col-md-8 col-xl-6">
                     <div class="about-4-des">
                         <div id="accordion-4" class="about-4-accodian">
                             <div class="accodian-4-item active">
@@ -48,7 +50,9 @@
                                     <h5 class="bold">High Quality Performanceyears.</h5>
                                 </div>
                                 <div id="collapse-4-Two" class="accodian-4-result collapse show" data-parent="#accordion-4">
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                                 <p>
+Our focus is on building long- lasting relationships by constantly striving for excellance……all our youngers with dreams in their eyes …looking for their bright future within India or Overseas….must be guided well without minting money
+                            </p>
                                 </div>
                             </div>
                             <div class="accodian-4-item">
@@ -56,7 +60,9 @@
                                     <h5 class="bold">We are served since 93 years to our clients with trust and we are happy.</h5>
                                 </div>
                                 <div id="collapse-4-One" class="accodian-4-result collapse" data-parent="#accordion-4">
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                                   <p>
+We value your time, money and trust as we value our company’s credibility, ethics and principles.
+</p>
                                 </div>
                             </div>
                             
@@ -65,7 +71,9 @@
                                     <h5 class="bold">Experience the beeWe try to make the world a secure place to live</h5>
                                 </div>
                                 <div id="collapse-4-three" class="accodian-4-result collapse" data-parent="#accordion-4">
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                                    <p>
+We, “Legal Space Immigration”, are counted amongest the prominent service providers offering solutions Study Visa, Immigration, Tourist Visa, Business Visa, Embassy Interview and Much More To provide most transparent, honest and efficient services network for prospective students and each team member strives towards that goal.
+</p>
                                 </div>
                             </div>
                             <div class="accodian-4-item">
@@ -73,7 +81,9 @@
                                     <h5 class="bold">Talk to one of our consultant today! </h5>
                                 </div>
                                 <div id="collapse-4-four" class="accodian-4-result collapse" data-parent="#accordion-4">
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                                    <p>
+We have successfully rendered positive services to many students at different countries like Canada, U.S.A, Australia, New Zealand, Hongkong and Duabi
+</p>
                                 </div>
                             </div>
                         </div>
@@ -92,7 +102,7 @@
                 <div class="col-12 text-center">
                     <div class="section-head-3-1">
                         <h2>Our Expert <span>Consultant</span></h2>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humourh.</p>
+                        <p>We leverage on the resources of entities and the strength of our global network with highly regarded universities to provide first-class education, in a learning environment resulting plenty of exposure to the real-life business world.</p>
                     </div>
                 </div>
             </div>

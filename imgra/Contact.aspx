@@ -7,8 +7,8 @@
        <!-- Map Area Start -->
     
  <div class="google-map">
-     <iframe class="gmap3-area" width="100%" src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3456.5659239269476!2d76.80940941511328!3d29.96316198191184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s%23+B%2C+Opp.University+3rd+Gate%2C+Kurukshetra+-+136118%2C+Near+Shubhash+Bhojnalya!5e0!3m2!1sen!2sin!4v1539451144149"  frameborder="0" style="border:0" allowfullscreen></iframe>
-
+     <%--<iframe class="gmap3-area" width="100%" src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3456.5659239269476!2d76.80940941511328!3d29.96316198191184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s%23+B%2C+Opp.University+3rd+Gate%2C+Kurukshetra+-+136118%2C+Near+Shubhash+Bhojnalya!5e0!3m2!1sen!2sin!4v1539451144149"  frameborder="0" style="border:0" allowfullscreen></iframe>--%>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3456.5524435258853!2d76.80960951472478!3d29.963549581911803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390e399dadca42c9%3A0xfc203ec15e6d3564!2sLanguage+Coaching+Centre!5e0!3m2!1sen!2sin!4v1540205966700" class="gmap3-area" width="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
 <%--  <div class="gmap3-area" data-lat="24.592631" data-lng="88.269891" data-mrkr="images/bg/map-marker.png">--%>
   </div>
     <!-- /.google-map -->
@@ -109,7 +109,7 @@ Pin Code - 136119,  Haryana   ( INDIA ).<br />
     
     
     <!-- Clint logo Part Start -->
-    <section class="clint-logo-3 section-p bg_dark">
+    <%--<section class="clint-logo-3 section-p bg_dark">
         <div class="container">
             <div class="row">
                 <div class="swiper-container clint-logo-3-slider" data-swiper-config='{"loop": true, "effect": "slide", "speed": 900, "autoplay": 1500, "paginationClickable": true, "slidesPerView" : 4 ,"breakpoints": { "575": { "slidesPerView": 2},"767": { "slidesPerView": 3 }}}'>
@@ -138,14 +138,14 @@ Pin Code - 136119,  Haryana   ( INDIA ).<br />
                 </div>
             </div>
         </div>
-    </section>
+    </section>--%>
     <!-- Clint logo Part End -->
 
 
     
 
 <!-- Twiter Feed  Part Start -->
-<section class="twitter-feed-part">
+<%--<section class="twitter-feed-part">
     <div class="container">
         <div class="row">
             <div class="twitter-feed-box">
@@ -189,7 +189,7 @@ Pin Code - 136119,  Haryana   ( INDIA ).<br />
             </div>
         </div>
     </div>
-</section>
+</section>--%>
 <!-- Twiter Feed  Part End -->
 </asp:Content>
 
